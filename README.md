@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Javascript basics
 - 🌱 I’m currently learning MSSQL 
 - 🤔 I’m looking for a mentor
-- 💬 Ask me about Turkey, ASPNET MVC5, Entity Framework, C#, PHP, MSSQL, JS
+- 💬 Ask me about Turkey, P5.JS, ASPNET MVC5, Entity Framework, C#, PHP, MSSQL, JS
 - 📫 How to reach me: enginkaratas99@gmail.com
 - ⚡ Fun fact: My name is Engin like engineer 😉
 
