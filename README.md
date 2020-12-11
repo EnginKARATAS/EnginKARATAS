@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**EnginKARATAS/EnginKARATAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## Hi, I'm Engin 👋 I'm a Web Developer, Intermediate Guitarist and Computer Engineering student at Turkey
 
 - 🔭 I’m currently working on Javascript basics
@@ -15,13 +10,8 @@
  
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-🎥 [twitch][twitch] **|** 
-📦 [npm][npm] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
-
-Shoutout to [Brad Garropy][brad] for the inspiration!
 
 [website]: https://enginkaratas.com
 [twitter]: https://twitter.com/Engin70066929
