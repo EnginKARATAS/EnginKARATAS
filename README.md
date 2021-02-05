@@ -1,6 +1,6 @@
 ## Hi, I'm Engin 👋 I'm a Web Developer, Guitarist and Computer Engineering student at Turkey
 
-- 🔭 I’m currently working on Javascript 
+- 🔭 I’m currently working on Node 
 - 🌱 I’m currently learning Javascript 
 - 🤔 I’m looking for a mentor
 - 💬 Ask me about Turkey, P5.JS, ASPNET MVC5, Entity Framework, C#, PHP, MSSQL, JS
