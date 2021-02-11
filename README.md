@@ -1,4 +1,4 @@
-## Hi, I'm Engin 👋 I'm a Web Developer, Guitarist and Computer Engineering student at Turkey
+## Hi, I'm Engin 👋 I'm a Web Developer, Guitar lover and Computer Engineering student at Turkey
 
 - 🔭 I’m currently working on Node, OOP/SOLID
 - 🌱 I’m currently learning Javascript 
