@@ -3,10 +3,9 @@
 - 🔭 I’m currently working on Node, C# OOP/SOLID
 - 🌱 I’m currently learning Javascript, SOLID 
 - 🤔 I’m looking for a job or internship
-- 💬 Ask me about ASP.NET MVC5, Entity Framework, C#, PHP, MSSQL, JS, P5.JS, Socket.io
+- 💬 Ask me something ASP.NET MVC5, Entity Framework, C#, PHP, MSSQL, JS, P5.JS, Socket.io
 - 📫 How to reach me: enginkaratas99@gmail.com
-- ⚡ Fun fact: My name is Engin like engineer 😉
-
+- ⚡ Fun fact: My name is Engin like engineer
 
 -->
  
