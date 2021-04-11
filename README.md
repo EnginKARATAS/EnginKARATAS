@@ -1,7 +1,7 @@
 ## I'm Engin🤠 I'm a Jr. Web Developer, Guitar lover and Computer Engineering student at Turkey
 
-- 🔭 I’m currently working on Node, C# OOP/SOLID
-- 🌱 I’m currently learning Javascript, SOLID 
+- 🔭 I’m currently working on Angular 
+- 🌱 I’m currently learning Javascript 
 - 🤨 I’m looking for a job or internship
 - 💬 jr. experience ASP.NET MVC5, Entity Framework, C#, PHP, MSSQL, JS, P5.JS, Socket.io
 - 📫 How to reach me: enginkaratas99@gmail.com
