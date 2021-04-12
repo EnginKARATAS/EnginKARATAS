@@ -18,7 +18,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnginKARATAS&layout=compact)]()
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EnginKARATAS&repo=GateOfMusicians)]()
-https://wakatime.com/badge/github/EnginKARATAS/agario-socket-p5.svg
+[![wakatime](https://wakatime.com/badge/github/EnginKARATAS/agario-socket-p5.svg)](https://wakatime.com/badge/github/EnginKARATAS/agario-socket-p5)
+
 [website]: https://enginkaratas.com
 [twitter]: https://twitter.com/engineerinengin
 [instagram]: https://www.instagram.com/engin.in_/
