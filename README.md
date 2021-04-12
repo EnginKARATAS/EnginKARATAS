@@ -17,7 +17,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnginKARATAS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EnginKARATAS&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EnginKARATAS&repo=GateOfMusicians)](https://github.com/EnginKARATAS/GateOfMusicians)
 
 [website]: https://enginkaratas.com
 [twitter]: https://twitter.com/engineerinengin
