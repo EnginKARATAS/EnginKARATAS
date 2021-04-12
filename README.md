@@ -18,7 +18,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnginKARATAS&layout=compact)]()
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EnginKARATAS&repo=GateOfMusicians)]()
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EnginKARATAS)]()
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EnginKARATAS)](https://github.com/EnginKARATAS/GateOfMusicians)
 
 [website]: https://enginkaratas.com
 [twitter]: https://twitter.com/engineerinengin
