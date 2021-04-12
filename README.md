@@ -13,6 +13,7 @@
 🐦 [twitter][twitter] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnginKARATAS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://enginkaratas.com
 [twitter]: https://twitter.com/engineerinengin
