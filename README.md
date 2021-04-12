@@ -7,13 +7,17 @@
 - 📫 How to reach me: enginkaratas99@gmail.com
 - ⚡ Maybe Fun fact: My name is Engin like engineer
 
--->
+
  
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
+-->
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnginKARATAS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EnginKARATAS&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://enginkaratas.com
 [twitter]: https://twitter.com/engineerinengin
