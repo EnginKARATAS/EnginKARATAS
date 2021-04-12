@@ -18,8 +18,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnginKARATAS&layout=compact)]()
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EnginKARATAS&repo=GateOfMusicians)]()
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EnginKARATAS)](https://github.com/EnginKARATAS/GateOfMusicians)
-
+https://wakatime.com/badge/github/EnginKARATAS/agario-socket-p5.svg
 [website]: https://enginkaratas.com
 [twitter]: https://twitter.com/engineerinengin
 [instagram]: https://www.instagram.com/engin.in_/
