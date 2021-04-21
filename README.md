@@ -15,10 +15,6 @@
 👔 [linkedin][linkedin]
 -->
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EnginKARATAS&repo=GateOfMusicians)]()
-
-[website]: https://enginkaratas.com
 [twitter]: https://twitter.com/engineerinengin
 [instagram]: https://www.instagram.com/engin.in_/
 [linkedin]: https://linkedin.com/in/engin-karataş-060807171/
