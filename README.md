@@ -1,4 +1,4 @@
-## I'm Engin🤠 I'm a Jr. Web Developer, Guitar lover and Computer Engineering student at Turkey
+## I'm Engin🛴 I'm a Jr. Web Developer, Guitar lover and Computer Engineering student at Turkey
 
 - 🔭 I’m currently working on Angular 
 - 🌱 I’m currently learning Javascript 
