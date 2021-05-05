@@ -1,11 +1,11 @@
-## I'm Engin🛴 I'm a Jr. Web Developer, Guitar lover and Computer Engineering student at Turkey
+## I'm Engin🛴 Few Experianced junior, Guitar lover and Computer Engineering student at Turkey. #backend 🔥
 
-- 🔭 I’m currently working on Angular 
-- 🌱 I’m currently learning Javascript 
+- 🔭 I’m currently working on Java 
+- 🌱 I’m currently learning OOP 
 - 🤨 I’m looking for a job or internship
-- 💬 jr. experience ASP.NET MVC5, Entity Framework, C#, PHP, MSSQL, JS, P5.JS, Socket.io
-- 📫 How to reach me: enginkaratas99@gmail.com
-- ⚡ Maybe Fun fact: My name is Engin like engineer
+- 💬 experience with ASP.NET MVC5, Entity Framework, C#, PHP, MSSQL, JS, P5.JS, Socket.io 
+- 📫 How to reach me: contact@enginkaratas.com
+- ⚡ Not Fun fact: My name is Engin like engineer
 
  
 🏡 [website][website] **|** 
