@@ -1,4 +1,4 @@
-## I'm Engin🛴 Few Experienced backend coder & guitar lover & CE student at Turkey.
+## I'm Engin🛴 Few Experienced backend coder & guitar lover & CE student in Turkey.
 
 - 🔭 I’m currently working on Java
 - 🌱 I’m currently learning OOP 
