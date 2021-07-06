@@ -1,6 +1,6 @@
-## I'm Engin🛴 Few Experienced backend coder & guitar lover & CE student in Turkey.
+## I'm Engin🛴 Few Experienced backend developer & guitar lover & CE student in Turkey.
 
-- 🔭 I’m currently working on Java, React
+- 🔭 I’m currently working on Angular, Typescript
 - 🌱 I’m currently learning OOP 
 - 🤨 I’m looking for a job or internship
 - 💬 experience with ASP.NET MVC5, Entity Framework, C#, PHP, MSSQL, JS, P5.JS, Socket.io 
